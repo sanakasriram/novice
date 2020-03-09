@@ -1,2 +1,2 @@
 # novice
-To learn and explore git stuff
+To learn and explore git stuff !
